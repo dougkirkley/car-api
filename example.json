@@ -1,0 +1,32 @@
+[
+	{
+		"model": "Golf",
+		"color": "Silver",
+		"make": "Volkswagen",
+		"year": "2005"
+	},
+	{
+		"model": "Camry",
+		"color": "Red",
+		"make": "Toyota",
+		"year": "2011"
+	},
+	{
+		"model": "X5",
+		"color": "Black",
+		"make": "BMW",
+		"year": "2009"
+	},
+	{
+		"model": "Civic",
+		"color": "Blue",
+		"make": "Honda",
+		"year": "2016"
+	},
+	{
+		"model": "Impreza",
+		"color": "White",
+		"make": "Subaru",
+		"year": "2018"
+	}
+]
